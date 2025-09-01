@@ -39,7 +39,7 @@ if(!isset($_SESSION['email'])){
             </p>
         </div>
         <div class="hero-image-container">
-            <img src="img/1.png" alt="Jonny Czar" class="hero-image">
+            <img src="img/1.png" alt="lulatt." class="hero-image">
         </div>
     </main>
 
